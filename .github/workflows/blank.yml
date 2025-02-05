@@ -1,0 +1,28 @@
+name: Extract RAR File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Unrar Kur
+        run: sudo apt-get install -y unrar
+
+      - name: RAR Dosyasını Aç
+        run: unrar x -o+ public.rar ./
+
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Extracted public.rar"
+          git push
