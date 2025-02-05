@@ -1,0 +1,588 @@
+Uri: http://bozova.com.tr/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:500
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/hosting/1188/icon/favicon.ico
+File Name: C:\Downloaded Web Sites\bozova.com.tr\hosting\1188\icon\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://bozova.com.tr/hosting/1188/icon/192/favicon.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\hosting\1188\icon\192\favicon.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/hosting/1188/icon/180/favicon.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\hosting\1188\icon\180\favicon.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/xml/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\xml\index.htm.xml
+Content Type: text/xml
+
+Uri: http://bozova.com.tr/css/?h=1188
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/css/sevgane3.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\sevgane3.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/tr/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/vizyon/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\vizyon\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/misyon/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\misyon\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/hakkimizda/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/urunlerimiz/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\urunlerimiz\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/multimedia/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\multimedia\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/e-katalog/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\e-katalog\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/tr/iletisim/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\tr\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/modul/full/source/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/full/source/helpers/jquery.fancybox-thumbs.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\helpers\jquery.fancybox-thumbs.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/code/kayan/owl.carousel.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\code\kayan\owl.carousel.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/code/kayan/owl.theme.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\code\kayan\owl.theme.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/sayfa/261475/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261475\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261476/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261476\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261478/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261478\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261479/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261479\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261482/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261482\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261484/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261484\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261483/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261483\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261474/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261474\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261485/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261485\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261486/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261486\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261487/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261487\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261488/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261488\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261489/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261489\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261480/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261480\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261490/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261490\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261491/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261491\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261492/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261492\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261493/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261493\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261494/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261494\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261495/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261495\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261496/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261496\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261498/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261498\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261499/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261499\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261500/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261500\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261471/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261471\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261472/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261472\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261473/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261473\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261497/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261497\index.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/bozovagida/
+File Name: C:\Downloaded Web Sites\bozova.com.tr\bozovagida\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCuwMKcYHyR174YDUcslAJYw
+File Name: C:\Downloaded Web Sites\bozova.com.tr\channel\UCuwMKcYHyR174YDUcslAJYw.html
+Content Type: text/html
+
+Uri: http://bozova.com.tr/js/tam/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\js\tam\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/hosting/1188/mz/05052015-122226.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\hosting\1188\mz\05052015-122226.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul_img/3975/584236.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3975\584236.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/slider/effec/wowslider.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\effec\wowslider.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/slider/effec/carousel_basic.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\effec\carousel_basic.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/modul_1/2000/silder/silder_kutuphane.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_1\2000\silder\silder_kutuphane.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/modul_1/2000/silder/silder_js.asp?efek=carousel_basic.gif&id=3000&width=1020&height=390
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_1\2000\silder\silder_js.asp.html
+Content Type: text/html
+
+Uri: http://bozova.com.tr/modul/full/source/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/full/source/helpers/jquery.fancybox-thumbs.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\helpers\jquery.fancybox-thumbs.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/code/kayan/owl.carousel.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\code\kayan\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/sayfa/261475/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261475\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261476/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261476\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261478/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261478\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261479/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261479\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261482/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261482\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261484/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261484\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261483/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261483\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261474/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261474\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261485/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261485\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261486/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261486\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261487/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261487\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261488/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261488\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261489/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261489\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261480/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261480\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261490/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261490\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261491/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261491\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261492/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261492\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261493/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261493\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261494/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261494\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261495/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261495\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261496/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261496\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261498/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261498\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261499/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261499\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261500/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261500\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261471/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261471\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261472/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261472\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261473/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261473\k\index.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/sayfa/261497/index.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\sayfa\261497\k\index.png
+Content Type: image/png
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyABJwcRq-oUKsiEKFXUv4mCfr5Y7HwR2W8
+File Name: C:\Downloaded Web Sites\bozova.com.tr\maps\api\js
+Content Type: text/javascript
+
+Uri: http://bozova.com.tr/image/svg/iletisim/1.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\iletisim\1.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/image/svg/iletisim/2.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\iletisim\2.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/image/svg/iletisim/4.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\iletisim\4.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/image/svg/iletisim/5.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\iletisim\5.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/image/sosyal/1/100.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\sosyal\1\100.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/image/sosyal/1/109.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\sosyal\1\109.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/js/index.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\js\index.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/js/sevgane.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\js\sevgane.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/modul/slider/4000/bullet.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\4000\bullet.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/slider/4000/arrows.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\4000\arrows.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/slider/4000/pause.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\4000\pause.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/slider/4000/play.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\4000\play.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/slider/4000/triangle.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\slider\4000\triangle.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul_img/3975/tema/572258.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3975\tema\572258.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/image/logo.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\logo.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/image/svg/1/214.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\1\214.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/image/svg/1/215.asp?r=fff
+File Name: C:\Downloaded Web Sites\bozova.com.tr\image\svg\1\215.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225568
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-1.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=vizyon&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-1.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225569
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-2.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=misyon&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-2.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225570
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-3.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=hakkimizda&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-3.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=261501
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-4.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=urunlerimiz&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-4.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225572
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-5.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/modul_3/800/css.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\800\css.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/modul_3/800/demo.youmax.min.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\800\demo.youmax.min.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=multimedia&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-5.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225573
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-6.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/jquery.booklet.1.1.0.css
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\jquery.booklet.1.1.0.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/jquery.easing.1.3.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/jquery.booklet.1.1.0.min.js
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\jquery.booklet.1.1.0.min.js
+Content Type: application/javascript
+
+Uri: http://bozova.com.tr/modul_img/3980/512919.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\512919.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/306162.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\306162.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/123235.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\123235.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/660632.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\660632.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/357166.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\357166.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/452372.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\452372.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/511348.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\511348.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul_img/3980/612107.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul_img\3980\612107.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=e-katalog&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-6.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/css/?h=1188&sayfa=225574
+File Name: C:\Downloaded Web Sites\bozova.com.tr\css\index.htm-7.css
+Content Type: text/css
+
+Uri: http://bozova.com.tr/api/?islem=hambal&yol_1=tr&yol_2=iletisim&yol_3=
+File Name: C:\Downloaded Web Sites\bozova.com.tr\api\index-7.htm
+Content Type: text/html
+
+Uri: http://bozova.com.tr/modul/full/source/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/full/source/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://bozova.com.tr/modul/full/source/blank.gif
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\blank.gif
+Content Type: image/gif
+
+Uri: http://bozova.com.tr/modul/full/source/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\full\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/code/kayan/grabbing.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\code\kayan\grabbing.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/code/kayan/AjaxLoader.gif
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\code\kayan\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: http://bozova.com.tr/modul/modul_3/301/images/left_bg.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\images\left_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul/modul_3/301/images/right_bg.jpg
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\images\right_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bozova.com.tr/modul/modul_3/301/images/buttons.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\images\buttons.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/modul_3/301/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/images/shadow.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\images\shadow.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/images/arrow-next.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\images\arrow-next.png
+Content Type: image/png
+
+Uri: http://bozova.com.tr/modul/modul_3/301/booklet/images/arrow-prev.png
+File Name: C:\Downloaded Web Sites\bozova.com.tr\modul\modul_3\301\booklet\images\arrow-prev.png
+Content Type: image/png
+
